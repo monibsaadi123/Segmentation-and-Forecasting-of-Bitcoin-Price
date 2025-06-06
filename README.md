@@ -59,13 +59,6 @@ Note: Forecasting percentage changes is more difficult than predicting absolute 
 - Explore risk-aware or stochastic optimization strategies
 - Use forecasts as directional signals, not standalone trading systems
 
-## File Structure
-data/
-btcusd_Raw_Dataframe.csv
-notebooks/
-ANN2Project.ipynb
-Project Report Monib Saadi.pdf
-
 ## Contact
 
 **Monib Saadi**  
